@@ -6,7 +6,7 @@ I’m focusing on HTML, CSS, JavaScript, React, Node.js, and cloud technologies.
 What I'm working on
 - Building real-world projects like a TODO app, job board, and blog platform
 - Writing weekly blogs to document my progress
-- Sharing my journey on LinkedIn and GitHub
+- Sharing my journey on GitHub and dev
 
 Tech Stack I'm Learning
 - HTML, CSS, JavaScript
