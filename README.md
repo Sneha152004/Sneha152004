@@ -16,6 +16,5 @@ Tech Stack I'm Learning
 - Docker, Cloud, APIs
 
 Connect with me
-- 🌐 [LinkedIn](www.linkedin.com/in/sneha-sinha-a30725363)  
- “Learning by doing and sharing.”
+- 🌐 https://dev.to/
 
