@@ -18,3 +18,6 @@ Tech Stack I'm Learning
 Connect with me
 - 🌐 https://dev.to/
 
+Certifications
+- https://www.credly.com/users/sneha-sinha.54026c02
+
