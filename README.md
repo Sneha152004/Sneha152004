@@ -18,6 +18,21 @@ Tech Stack I'm Learning
 Connect with me
 - 🌐 https://dev.to/
 
-Certifications
-- https://www.credly.com/users/sneha-sinha.54026c02
+
+- ## 🏆 Certifications
+
+### Software Engineering Essentials – IBM (via Coursera)
+
+I’ve completed the first course in the IBM Full Stack Developer Professional Certificate.
+
+🔗 [Verify Credential on Credly](https://www.credly.com/badges/39d4877d-6cbc-41bb-b7de-ac4f28ff7621)
+
+### Introduction to HTML, CSS, and JavaScript – Coursera
+
+I’ve earned a certificate in Introduction to HTML, CSS, and JavaScript, which covered essential web development topics.
+
+🔗 [Verify Credential on Credly](https://www.credly.com/badges/28e4603c-ec18-49d4-b1dc-2c720f9ed6ec/public_url)
+
+More coming soon as I continue learning and building projects 🚀
+
 
