@@ -35,7 +35,7 @@ I’ve earned a certificate in Introduction to HTML, CSS, and JavaScript, which 
 #### ✅ Introduction to Git and GitHub – IBM (via Coursera)
 
 I’ve recently earned a badge in Git and GitHub, learning how to version control my code and collaborate effectively.
-🔗[Verify Credential on Credly]https://(www.credly.com/badges/d3694421-af07-4439-a112-f207ea7277c0/public_url)
+🔗[Verify Credential on Credly](https://www.credly.com/badges/d3694421-af07-4439-a112-f207ea7277c0/public_url)
 
 More coming soon as I continue learning and building projects 🚀
 
